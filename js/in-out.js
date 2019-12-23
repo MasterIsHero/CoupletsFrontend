@@ -5,6 +5,7 @@ var vm=new Vue({
 		list:[
 			{first_line:"酒热不须汤盏汤",last_line:"厅凉无用扇车扇"},
 			{first_line:"朝官多戴朝冠",last_line:"宫婢常持宫被"},
+			{first_line:"实例",last_line:"接着"}
 		]
 	},
 	methods:{
